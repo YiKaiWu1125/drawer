@@ -4,7 +4,7 @@
 
 ### 程式執行畫面
 
-![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/主畫面.png.png)
+![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/主畫面.png)
 
 ### 顏色
 
