@@ -4,7 +4,7 @@
 
 ### 程式執行畫面
 
-![image](https://github.com/YiKaiWu1125/drawer/picture/主畫面.png)
+![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/%E4%B8%BB%E5%8A%9F%E8%83%BD%E9%81%B8%E5%96%AE.png)
 
 ### 功能列表
 
