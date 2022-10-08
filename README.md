@@ -4,11 +4,9 @@
 
 ### 程式執行畫面
 
-![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/%E4%B8%BB%E5%8A%9F%E8%83%BD%E9%81%B8%E5%96%AE.png)
+![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/主畫面.png.png)
 
-### 功能列表
-
-#### 顏色
+### 顏色
 
 + 調整顏色(白色)
 
@@ -22,7 +20,7 @@
 
 ![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/調整顏色綠色.png)
 
-#### 型態
+### 型態
 
 + 繪製點
 
@@ -60,7 +58,7 @@
 
 ![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/繪製fill的三角形.png)
 
-#### 大小
+### 大小
 
 + 可調整圓形大小
 
@@ -70,7 +68,7 @@
 
 ![image](https://github.com/YiKaiWu1125/drawer/blob/main/picture/可調大小圓.png)
 
-#### 檔案
+### 檔案
 
 + 儲存檔案
 
